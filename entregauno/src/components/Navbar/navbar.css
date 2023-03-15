@@ -1,0 +1,18 @@
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    background-color: rgb(136, 161, 166);
+    color: white;
+}
+
+.botones {
+    font-size: 20px;
+    margin: 10px;
+    display: flex;
+}
+
+.botones p {
+    margin: 10px;
+    display: inline-block;
+}

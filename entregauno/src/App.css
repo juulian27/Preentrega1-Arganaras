@@ -1,0 +1,10 @@
+body {
+    background-image: url("http://www.solofondos.com/wp-content/uploads/2015/11/Im%C3%A1genes-de-fondo-para-sitio-web.jpg");
+}
+.titulo {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: white;
+}
+

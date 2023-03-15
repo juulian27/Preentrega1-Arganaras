@@ -1,0 +1,13 @@
+.item {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.contItem {
+    width: 350px;
+    margin: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
